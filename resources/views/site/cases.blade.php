@@ -1,9 +1,7 @@
 @extends('site.base')
 @section('url', route('site.home'))
-@section('title', 'Banco de Couro em Salvador')
-@section('description', 'Expansom Banco de Couro em Salvador é uma empresa que vem atuando a vários anos na distribuição
-    de Acessórios Automotivos, com grande variedade de lâmpadas de LED para o setor e diversos produtos para deixar seu
-    carro com o seu jeito. Vendemos no Atacado e no Varejo!')
+@section('title', '')
+@section('description', '')
 @section('image', url('site/images/logo.png'))
 @section('pg','pg-interna estrutura-2 pg-2')
 @section('content')

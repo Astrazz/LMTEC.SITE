@@ -1,8 +1,8 @@
 @extends('site.base')
-@section('titulo', 'LM Tec Automação | Empresa de Automação Industrial')
+@section('titulo', 'LMTEC Automação | Empresa de Automação Industrial')
 @section('url', route('site.quem.somos'))
-@section('title', 'LM Tec Automação | Empresa de Automação Industrial')
-@section('description', ' A LM Tec Automação é uma empresa do ramo de automação elétrica, fabricação instalação
+@section('title', 'LMTEC Automação | Empresa de Automação Industrial')
+@section('description', ' A LMTEC Automação é uma empresa do ramo de automação elétrica, fabricação instalação
 e manutenção de equipamentos e especializada em sistema de combate a incêndio')
 @section('image', url("storage/images/logo.png"))
 @section('content')
