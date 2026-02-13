@@ -246,7 +246,7 @@
     </div>
     <div class="col2-rod">
         <h3>Sobre Nós</h3>
-        <p style="text-align: justify;">A LM Tec Automação é uma empresa dedicada e especializada no setor elétrico e na segurança contra incêndio e pânico. Com uma sólida experiência no mercado, nossa missão é proporcionar soluções de excelência aos nossos clientes, garantindo que suas empresas operem de maneira segura, eficiente e em total conformidade com as leis e normas vigentes relacionadas a sistemas elétricos e equipamentos de incêndio.</p>
+        <p style="text-align: justify;">A LMTEC Automação é uma empresa dedicada e especializada no setor elétrico e na segurança contra incêndio e pânico. Com uma sólida experiência no mercado, nossa missão é proporcionar soluções de excelência aos nossos clientes, garantindo que suas empresas operem de maneira segura, eficiente e em total conformidade com as leis e normas vigentes relacionadas a sistemas elétricos e equipamentos de incêndio.</p>
     <div class="cb"></div>
         <a href="{{ route('site.quem.somos') }}" title="Continuar lendo sobre nós">Continuar lendo...</a>
     </div>
@@ -282,12 +282,12 @@
                 </p>
             </div>
         </form>
-        <div class="copyright">
+        <!--<div class="copyright">
             <span>
                 &copy; {{ date('Y') }} - {{ env('APP_EMPRESA') }}
                 <a href="http://www.lopaktecnologia.com.br" target="_blank" title="Lopak Tecnologia - Criação de sites, otimização de sites, links patrocinados" rel="noopener"><img src="https://lopakdesigner.com/uploads/logo-branca.png"></a>
             </span>
-        </div>
+        </div>-->
     </div>
 </div>
 </footer>
