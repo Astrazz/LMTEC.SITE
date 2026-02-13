@@ -224,11 +224,10 @@
         <ul>
             <li>
                 <span>Telefones</span>
-                <a class="tel0" href="tel:01155652460" rel="noreferrer" title="Ligue para nós">{{ env('TELEFONE') }}</a><a class="tel1" href="tel:011975015780" title="Ligue para nós">{{ env('WHATSAPP') }}</a>
-            </li>
+                <a class="tel0" href="tel:071992441526" rel="noreferrer" title="Ligue para nós">{{ env('TELEFONE') }}</a>
             <li>
                 <span>Whatsapp</span>
-                <a class="whats-global" href="https://api.whatsapp.com/send?phone=55{{ setUri2(env('WHATSAPP')) }}&text=Olá eu estou no site da LM Tec Automação e gostaria de saber mais informações sobre os serviços prestados" target="_blank" rel="noreferrer" title="Contato via Whatsapp">{{ env('WHATSAPP') }}</a>
+                <a class="whats-global" href="https://api.whatsapp.com/send?phone=55{{ setUri2(env('WHATSAPP')) }}&text=Olá eu estou no site da LMTEC AUTOMAÇÃO e gostaria de saber mais informações sobre os serviços prestados" target="_blank" rel="noreferrer" title="Contato via Whatsapp">{{ env('WHATSAPP') }}</a>
             </li>
             <li>
                 <span>Endereço</span>
