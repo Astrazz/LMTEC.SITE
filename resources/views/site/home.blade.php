@@ -1,7 +1,7 @@
 @extends('site.base')
-@section('titulo', 'LMTEC Automação | Empresa de Automação Industrial')
+@section('titulo', 'LMTEC AUTOMAÇÃO | Empresa de Automação Industrial')
 @section('url', route('site.quem.somos'))
-@section('title', 'LMTEC Automação | Empresa de Automação Industrial')
+@section('title', 'LMTEC AUTOMAÇÃO | Empresa de Automação Industrial')
 @section('description', ' A LMTEC Automação é uma empresa do ramo de automação elétrica, fabricação instalação
 e manutenção de equipamentos e especializada em sistema de combate a incêndio')
 @section('image', url("storage/images/logo.png"))
@@ -34,8 +34,8 @@ e manutenção de equipamentos e especializada em sistema de combate a incêndio
         </div>
     <div class="home">
     <section class="servicos-54">
-        <h2>Tudo o que você precisa em um só lugar</h2>
-        <span>Desenvolvemos software de gestão personalizado com melhor custo/benefício do mercado projetado por profissionais com mais de 20 anos de experiência.</span>
+        <h2>Automatizando a sua segurança.</h2>
+        <span>Desenvolvendo e fabricando quadros de comando de automação elétrica e equipamentos para diversos tipos de sistemas, de acordo com as especificações do projeto e as necessidades do cliente, com nossa experiência no mercado.</span>
         <div class="full-max">
             @foreach ($slides as $servico)
                 <a href="{{ route('site.servico',$servico->url) }}" class="box-cont">
@@ -52,7 +52,7 @@ e manutenção de equipamentos e especializada em sistema de combate a incêndio
     </section>
     <div class="destaque-asd" style="background-image: url({{ url('storage/images/destaque.jpg') }});">
         <div class="full-max">
-            <span>A {{ env('APP_EMPRESA') }} é líder no mercado há mais de {{calcularIdade("1998-01-01")}}  anos, com uma equipe altamente qualificada e experiente que oferece soluções inovadoras e personalizadas para atender às necessidades de cada cliente.</span>
+            <span>A {{ env('APP_EMPRESA') }} é conceituada no mercado há mais de {{calcularIdade("2016-10-19")}}  anos, com uma equipe qualificada e experiente que oferece soluções inovadoras e personalizadas para atender às necessidades de cada cliente.</span>
         </div>
     </div>
         {{-- <section class="servicos-55">

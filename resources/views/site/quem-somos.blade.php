@@ -1,8 +1,8 @@
 @extends('site.base')
-@section('titulo', 'Sobre a LMTEC Automação | Empresa de Automação Industrial')
+@section('titulo', 'Sobre a LMTEC AUTOMAÇÃO | Empresa de Automação Industrial')
 @section('url', route('site.quem.somos'))
-@section('title', 'Sobre a LMTEC Automação | Empresa de Automação Industrial')
-@section('description', ' A LMTEC Automação é uma empresa do ramo de automação elétrica, fabricação instalação
+@section('title', 'Sobre a LMTEC AUTOMAÇÃO | Empresa de Automação Industrial')
+@section('description', ' A LMTEC AUTOMÇÃO é uma empresa do ramo de automação elétrica, fabricação instalação
 e manutenção de equipamentos e especializada em sistema de combate a incêndio')
 @section('keyword', '')
 @section('image', url('storage/images/logo.jpg'))
@@ -26,7 +26,7 @@ e manutenção de equipamentos e especializada em sistema de combate a incêndio
                     </div>
                 </div>
                 <p style="text-align: justify;">
-                    A LMTEC Automação é uma empresa do ramo de automação elétrica, fabricação instalação
+                    A LMTEC AUTOMAÇÃO é uma empresa do ramo de automação elétrica, fabricação instalação
                     e manutenção de equipamentos e especializada em sistema de combate a incêndio. Com
                     experiência no mercado desde 2016, buscamos através de avaliações de qualidade e inspeções
                     periódicas, manter as empresas de acordo com o estabelecido nas Leis e Normas vigentes com
@@ -34,10 +34,10 @@ e manutenção de equipamentos e especializada em sistema de combate a incêndio
                 </p>
                 <br><br>
                 <h3>Nosso Objetivo</h3>
-                1. Desenvolver ambientes de negócios internos e externo que propiciem satisfação dos clientes e da comunidade em geral, por meio de produtos e serviços diferenciados;<br><br>
-                2. Fornecer produtos e serviços aos clientes de qualidade e aplicar procedimentos com objetividade e práticas da qualidade total;<br><br>
+                1. Desenvolver ambientes de negócios internos e externo que propiciem satisfação dos clientes em geral, por meio de produtos e serviços direcionado aos clientes;<br><br>
+                2. Fornecer produtos e serviços de qualidade aos clientes e aplicar procedimentos com objetividade e práticas da qualidade total;<br><br>
                 3. Criar soluções em de acordo com as necessidades dos clientes, colaboradores e parceiros de forma sustentável;<br><br>
-                4. Prover medidas corretivas e preventivas para que os equipamentos atendam as expectativas quando necessário
+                4. Prover medidas corretivas e preventivas para que os equipamentos atendam as expectativas quando necessário.
                 <div class="cb"></div>
             </div>
         </div>
@@ -54,7 +54,7 @@ e manutenção de equipamentos e especializada em sistema de combate a incêndio
 
                     <h2>Missão</h2>
                     <p>
-                        A LMTEC Automação tem a missão de ser uma empresa focada em automação e
+                        A LMTEC AUTOMAÇÃO tem a missão de ser uma empresa focada em automação e
                         especializada em sistema de combate a incêndio, buscando oferecer um atendimento rápido com
                         qualidade, comprometida com a excelência de seus produtos, trabalhando de forma justa e leal,
                         valorizando a capacidade de seus cooperadores e lutando por esse bem comum
@@ -87,6 +87,7 @@ e manutenção de equipamentos e especializada em sistema de combate a incêndio
                         Oferecer a menor preço com a maior qualidade possível.<br><br>
                         Oferecer excelência no atendimento e suporte técnico para os clientes.<br><br>
                         A satisfação de nossos clientes e a nossa busca
+
                     </p>
                 </div>
 

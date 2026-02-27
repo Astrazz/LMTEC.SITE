@@ -24,6 +24,7 @@
                     <div class="WRAP_SHOW_CONTENT">
                         <a title="Contato Rápido" href="JavaScript:Void(0);" id="jumpForm123"></a>
                         <form name="phpwcmsForm123" id="phpwcmsForm123" action="{{ url('contato.store') }}" method="post">
+                            <!--Solicita Orçamento-->
                             <!--[if lt IE 10]>
                                 <style type="text/css">
                                     .formulario p > label{ display:block}
